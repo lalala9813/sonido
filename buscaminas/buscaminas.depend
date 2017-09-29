@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1506691726 source:c:\users\alumno-g\desktop\buscaminas\buscaminas.cpp
+	<iostream>
+	<stdlib.h>
+	<windows.h>
+
